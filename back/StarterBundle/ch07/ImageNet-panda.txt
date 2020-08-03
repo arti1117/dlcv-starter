@@ -1,0 +1,1 @@
+wget -i "filename" -T 3 -t 1
